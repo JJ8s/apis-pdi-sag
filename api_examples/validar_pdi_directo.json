@@ -1,0 +1,22 @@
+{
+  "nombre": "Matias Ignacio",
+  "apellido": "Rivera Soto",
+  "correo": "matias.rivera.prueba@mail.com",
+  "pais_emisor": "Chile",
+  "numero_documento": "12345678-K",
+  "nacionalidad": "Chilena",
+  "fecha_nacimiento": "1994-05-17",
+  "fecha_ingreso": "2026-08-15",
+  "paso_fronterizo": "Complejo Fronterizo Los Libertadores",
+  "proposito_viaje": "turismo",
+  "viaja_con_menores": true,
+  "lista_menores": [
+    {
+      "nombre": "Sofia Valentina Rivera Morales",
+      "parentesco": "Padre",
+      "pais_emisor": "Chile",
+      "numero_documento": "24567890-1",
+      "tipo_autorizacion": "Autorizacion notarial del padre/madre que no viaja"
+    }
+  ]
+}

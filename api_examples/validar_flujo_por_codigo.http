@@ -1,0 +1,6 @@
+POST http://localhost:8090/api/flujo/validar
+Content-Type: application/json
+
+{
+  "codigo_tramite": "PEGA_AQUI_EL_CODIGO_DEL_TRAMITE"
+}

@@ -1,0 +1,9 @@
+POST http://localhost:8090/api/sag/validar
+Content-Type: application/json
+
+{
+  "codigo_tramite": "TEST-SAG-DIRECTO",
+  "declara_alimentos_animales_plantas": true,
+  "detalle_productos_sag": "Porto un animal de compañía: perro doméstico. Nombre Luna.",
+  "archivo_sag_nombre": "declaracion_sag_animal_prueba.pdf"
+}
